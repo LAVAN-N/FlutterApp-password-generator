@@ -1,0 +1,6 @@
+{
+  "appTitle": "PasswordGenerator",
+  "@appTitle": {
+    "description": "An application to generate random password with user specified length from 8 to 15 and characters with combinations of uppercase, lowercase, numbers and special characters. "
+  }
+}
